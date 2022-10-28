@@ -90,7 +90,7 @@ def setup_package():
             "tornado",
             "twisted",
             "urllib3",
-            "tableauserverclient",
+            "tableauserverclient", 
         ],
         entry_points={
             "console_scripts": [
